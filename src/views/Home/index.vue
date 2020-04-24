@@ -38,19 +38,19 @@ export default {
     .user-btn {
       width: 25px;
       height: 25px;
-      background: url("../../assets/icon/user-btn.png") no-repeat;
+      background: url('../../assets/icon/user-btn.png') no-repeat;
       background-size: 100%;
     }
     .header-logo {
       width: 92px;
       height: 28px;
-      background: url("../../assets/logo(1).png") no-repeat;
+      background: url('../../assets/logo(1).png') no-repeat;
       background-size: 100%;
     }
     .header-search {
       width: 25px;
       height: 25px;
-      background: url("../../assets/icon/search.png") no-repeat;
+      background: url('../../assets/icon/search.png') no-repeat;
       background-size: 100%;
     }
   }
